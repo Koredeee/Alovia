@@ -1,3 +1,5 @@
+# Alovia
+
 🚀 Features
 	•	📸 Real-time Image Classification
 Snap a photo or choose one from your gallery to detect Aloe Vera plant diseases instantly.
